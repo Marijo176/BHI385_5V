@@ -1,0 +1,45 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": "6",
+        "cols": "5",
+        "hspace": "0mm",
+        "vspace": "0mm",
+        "rotation": "0deg",
+        "baketext": "False"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "0.5mm",
+        "layer": "Edge.Cuts",
+        "cutcurves": "True"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "6mm",
+        "space": "0mm"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "5mm",
+        "voffset": "3mm",
+        "size": "1.5mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "15mm",
+        "voffset": "3.85mm",
+        "coppersize": "1mm",
+        "opening": "2mm"
+    },
+    "post": {
+        "millradius": "0.5mm",
+        "copperfill": "False"
+    },
+    "debug": {
+        "trace": "True"
+    }
+}
